@@ -54,7 +54,7 @@ body {
   position: relative;
   width: 200px;
   height: 200px;
-  background-color: #f0f0f0;
+  /* background-color: #f0f0f0; */
 }
 .hand {
   background-color: var(--primary-color);
@@ -78,5 +78,4 @@ body {
   background-color: #e74c3c;
 }
 .center-point {
-
 }
